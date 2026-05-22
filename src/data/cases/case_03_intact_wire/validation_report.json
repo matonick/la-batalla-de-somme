@@ -1,0 +1,18 @@
+{
+  "caseId": "case_03_intact_wire",
+  "status": "OK",
+  "checks": {
+    "esModulesImport": true,
+    "caseTimelinePresent": true,
+    "caseActivationPresent": true,
+    "allCaseEvidenceIdsExist": true,
+    "allCaseNpcIdsExist": true,
+    "allCaseDialogueIdsExist": true,
+    "allCaseEntityIdsExist": true,
+    "npcEntitiesHaveDialogueId": true,
+    "npcEntitiesVisibleAndInteractable": true,
+    "evidenceEntitiesExist": true,
+    "noDuplicateCoordinates": true
+  },
+  "notes": "NPCs y evidencias físicas fueron distribuidos en coordenadas distintas para evitar que aparezcan amontonados."
+}

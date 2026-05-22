@@ -1,0 +1,15 @@
+{
+  "caseId": "case_04_overflowing_hospital",
+  "ok": true,
+  "counts": {
+    "evidences": 6,
+    "npcs": 5,
+    "dialogues": 11,
+    "sources": 4,
+    "entities": 11,
+    "npcEntities": 5,
+    "evidenceEntities": 6
+  },
+  "errors": [],
+  "warnings": []
+}

@@ -1,0 +1,28 @@
+{
+  "ui": [
+    "notebook_open.mp3",
+    "notebook_close.mp3",
+    "evidence_found.mp3",
+    "dialogue_open.mp3",
+    "dialogue_choice.mp3",
+    "contradiction_detected.mp3",
+    "save_game.mp3",
+    "load_game.mp3",
+    "pause_open.mp3"
+  ],
+  "front": [
+    "step_mud.mp3",
+    "step_wood.mp3",
+    "step_water_mud.mp3",
+    "step_trench_edge.mp3",
+    "step_default.mp3",
+    "bombardment_near.mp3",
+    "bombardment_distant.mp3"
+  ],
+  "music": [
+    "menu_theme.mp3",
+    "front_ambient_day.mp3",
+    "front_ambient_night.mp3",
+    "notebook_ambient.mp3"
+  ]
+}
